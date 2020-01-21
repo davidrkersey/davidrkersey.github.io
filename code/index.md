@@ -5,4 +5,4 @@ Here are some files about visualization:
 - [Download Jupyter Notebook](MatplotlibGraphExamples.ipynb)
 
 Here are some other demos:
-- ![Here is a picture](
+- ![Here is a picture](download.jfif)
