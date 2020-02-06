@@ -2,4 +2,4 @@
 ---
 # Polynomial Regression and Step Function Presentation
 
-[Link to](/code/index.md)
+[Poly & Step](/MLIIprez/index.md)
