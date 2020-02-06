@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Test Title
-description: Test Description
 ---
-# My first heading
+# Polynomial Regression and Step Function Presentation
 
-[Go to Code Folder](/code/index.md)
+[Link to](/code/index.md)
