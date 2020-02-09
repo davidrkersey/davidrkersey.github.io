@@ -4,7 +4,7 @@ output: html_document
 
 ## Polynomial Regression and Step Function Overview {.tabset .tabset-fade}
 
-* [Return to Homepage](https://griffinsalyer.github.io/team13tp1.github.io/)
+* [Return to Homepage](https://davidrkersey.github.io/MLIIprez/)
 
 ### Objectives
 
