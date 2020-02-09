@@ -11,8 +11,8 @@
 
 [Lab 7.8.1 Walkthrough](/code/polyandstepR.html)
 
-
 [Lab 7.8.1 R Script](/code/Lab7_8_1.R)
+
 
 ### Applied Exercise | Question 6 | pg. 299 ISLR
 
