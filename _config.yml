@@ -3,4 +3,4 @@ description: Business Analytics Professional
 logo: "/pictures/smaller.PNG"
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
