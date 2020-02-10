@@ -8,7 +8,9 @@ I am a MS Business Analytics student in the Mason School of Business at The Coll
 
 [View my LinkedIn profile](https://www.linkedin.com/in/davidrkersey/)
 
-# Polynomial Regression and Step Function Presentation
+# Portfolio
+
+## Polynomial Regression and Step Function Presentation
 February, 2020
 
 [Poly & Step](/MLIIprez/index.md)
