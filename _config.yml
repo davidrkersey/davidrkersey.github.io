@@ -1,6 +1,6 @@
 title: David Kersey
 description: Business Analytics Professional
-logo: https://davidrkersey.github.io/pictures/smaller.PNG
+logo: "/pictures/smaller.PNG"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
