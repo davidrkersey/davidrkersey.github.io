@@ -1,4 +1,4 @@
-![headshot](https://github.com/davidrkersey/davidrkersey.github.io/issues/1#issue-562684926)
+![headshot](davidrkersey.github.io/pictures/smaller.png)
 
 Welcome!
 ---
