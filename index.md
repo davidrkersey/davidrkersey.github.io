@@ -1,4 +1,4 @@
-![headshot](davidrkersey.github.io/pictures/smaller.png)
+
 
 Welcome!
 ---
