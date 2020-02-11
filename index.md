@@ -19,4 +19,4 @@ The material in this presentation is drawn from [Introduction to Statistical Lea
 ## Portfolio Optimization | Python
 November, 2019 <br>
 <br>
-[PortOpt Python md]
+[PortOpt](/Portfolio_Optimization/Portfolio_Optimization_example.ipynb)
