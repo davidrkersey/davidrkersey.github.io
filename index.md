@@ -18,7 +18,7 @@ The material in this presentation is drawn from the free online resource, [Intro
 
 [Poly & Step](/MLIIprez/index.md)
 
-## Portfolio Optimization | Python
+## Portfolio Optimization | Python | Gurobi Solver
 November, 2019 <br>
 <br>
 [PortOpt](/Portfolio_Optimization/Portfolio_Optimization_example.html)
