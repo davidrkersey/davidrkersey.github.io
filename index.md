@@ -15,3 +15,8 @@ February, 2020 <br>
 The material in this presentation is drawn from [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/).
 
 [Poly & Step](/MLIIprez/index.md)
+
+## Portfolio Optimization | Python
+November, 2019 <br>
+<br>
+[PortOpt Python md]
