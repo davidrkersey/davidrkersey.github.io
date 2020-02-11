@@ -9,7 +9,7 @@ I am a MS Business Analytics student in the Mason School of Business at The Coll
 
 # Portfolio
 
-## Polynomial Regression and Step Function Presentation
+## Polynomial Regression and Step Function Presentation | R
 February, 2020 <br>
 <br>
 The material in this presentation is drawn from [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/).
