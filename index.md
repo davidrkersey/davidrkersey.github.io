@@ -4,7 +4,7 @@
 ---
 ---
 
-I am a MS Business Analytics student in the Mason School of Business at The College of William and Mary. This website serves as a repository of projects I want to exhibit as I embark on my data science career. 
+I am a MS Business Analytics student in the Mason School of Business at The College of William and Mary. I am also an incoming Analytics Consultant at Deloitte Risk and Financial Advisory in Washington, D.C. This website serves as a repository of projects I want to exhibit as I embark on my data science career. 
 
 [LinkedIn](https://www.linkedin.com/in/davidrkersey/)
 
