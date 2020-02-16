@@ -13,7 +13,7 @@ I am a MS Business Analytics student in the Mason School of Business at The Coll
 
 # Portfolio
 
-### Using MapReduce to Assess Medicare Payouts
+## Using MapReduce to Assess Medicare Payouts
 February, 2020 <br>
 <br>
 This was an individual assignment for my Big Data class. 
