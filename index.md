@@ -30,4 +30,4 @@ The material in this presentation is drawn from the free online resource, [Intro
 ## Portfolio Optimization | Python | Gurobi Solver
 November, 2019 <br>
 <br>
-[PortOpt](/Portfolio_Optimization/Portfolio_Optimization_example (3).html)
+[PortOpt](/Portfolio_Optimization/Portfolio_Optimization_example.html)
