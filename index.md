@@ -13,12 +13,12 @@ I am a MS Business Analytics student in the Mason School of Business at The Coll
 
 # Portfolio
 
-## Aggregating Medicare Payouts | Python | MapReduce
+## Aggregating Medicare Payouts | Python | MapReduce | Spark
 February, 2020 <br>
 <br>
 This was an individual assignment for my Big Data class. 
 
-[MapReduce](/MapReduce/MapReduce.html)
+[MapReduce|Spark](/MapReduce/MapReduce.html)
 
 ## Polynomial Regression and Step Function Presentation | R
 February, 2020 <br>
