@@ -18,7 +18,7 @@ February, 2020 <br>
 <br>
 This was an individual assignment for my Big Data class. 
 
-[MapReduce|Spark](/MapReduce/MapReduce.html)
+[MapReduce & Spark](/MapReduce/MapReduce.html)
 
 ## Polynomial Regression and Step Function Presentation | R
 February, 2020 <br>
