@@ -12,6 +12,10 @@ I am a MS Business Analytics student in the Mason School of Business at The Coll
 ---
 
 # Portfolio
+## Preliminary Modeling of Medicare Data | Python | Pandas | SK-Learn
+April, 2020 <br>
+<br>
+
 
 ## Aggregating Medicare Payouts | Python | MapReduce | Spark
 February, 2020 <br>
