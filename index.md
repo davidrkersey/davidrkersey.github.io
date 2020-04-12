@@ -15,6 +15,7 @@ I am a MS Business Analytics student in the Mason School of Business at The Coll
 ## Preliminary Modeling of Medicare Data | Python | Pandas | SK-Learn
 April, 2020 <br>
 <br>
+This was an opportunity to practice data cleaning in Pandas and modeling in SK-Learn. This data will be used for the final project in my AI class.
 
 [Modeling Medicare](/ML_Medicare/Prelim.html)
 
