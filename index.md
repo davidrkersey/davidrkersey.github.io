@@ -12,12 +12,14 @@ I am a MS Business Analytics student in the Mason School of Business at The Coll
 ---
 
 # Portfolio
-## Preliminary Modeling of Medicare Data | Python | Pandas | SK-Learn
+## Modeling Medicare Data | Python | Pandas | SK-Learn | Keras
 April, 2020 <br>
 <br>
-This was an opportunity to practice data cleaning in Pandas and modeling in SK-Learn. This data will be used for the final project in my AI class.
+In the first notebook, I clean and model the data in Pandas and SK-Learn. The data and modeling from the first notebook was used to build a feed forward regressor neural network in the second.
 
-[Modeling Medicare](/ML_Medicare/Prelim.html)
+[Preliminary Modeling Medicare](/ML_Medicare/Prelim.html)
+
+[FF Medicare Regressor]()
 
 ## Aggregating Medicare Payouts | Python | MapReduce | Spark
 February, 2020 <br>
