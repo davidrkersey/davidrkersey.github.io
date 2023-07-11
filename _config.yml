@@ -1,6 +1,4 @@
 title: David Kersey
-description: Data Science Professional
-logo: "/pictures/smaller.PNG"
-show_downloads: false
-google_analytics: UA-158701528-1
+description:
+layout: page
 theme: jekyll-theme-minimal
